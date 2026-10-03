@@ -1,0 +1,15 @@
+[
+  "duration",
+  "loc_deviation",
+  "loc_abs_deviation",
+  "gs_deviation",
+  "gs_abs_deviation",
+  "loc_trend",
+  "gs_trend",
+  "altitude_change",
+  "usable_gate_samples",
+  "gate_min",
+  "gate_max",
+  "loc_rate",
+  "gs_rate"
+]
